@@ -2,7 +2,7 @@
 
 SessionMay2023
 
-#Frontend Development
+#Frontend Development Session
 
 HTML5
 CSS3
