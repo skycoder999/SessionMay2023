@@ -1,0 +1,3 @@
+ARRAY
+1 OBJECT destructuring 
+Mutiple objects desctructuring from Array of objects
