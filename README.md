@@ -1,6 +1,6 @@
 # SessionMay2023
-SessionMay2023
 
+SessionMay2023
 
 #Frontend Development
 
@@ -9,3 +9,4 @@ CSS3
 BOOTSTRAP
 JAVASCRIPT
 REACT.JS
+Typescript
